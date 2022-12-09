@@ -4,7 +4,7 @@
 
 
 
-# [Weegee Green](https://cdn.discordapp.com/attachments/649974963285262360/1050790680601042954/weeggreen2.lsl)
+# [weegee green](https://cdn.discordapp.com/attachments/649974963285262360/1050790680601042954/weeggreen2.lsl)
 ![](https://i.imgur.com/iXKzau7.png) REQUIRES THE FONT "UD Digi Kyokasho NP-B"
 
 # [gray/pink/white](https://cdn.discordapp.com/attachments/649974963285262360/1050791178238447626/weegeegreen.lsl)
